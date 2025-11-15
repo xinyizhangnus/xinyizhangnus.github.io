@@ -28,7 +28,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=jx60hcUAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://scholar.google.com/citations?hl=en&user=hfUlQjMAAAAJ
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4953693
 
 Research interests:
   - AI in E-commerce
