@@ -21,7 +21,7 @@ highlight_name: true
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'xinyizhang@u.nus.edu'
+    url: 'mailto:xinyizhang@u.nus.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xinyi-zhang-8324b4176/
