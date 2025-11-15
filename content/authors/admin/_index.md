@@ -30,7 +30,7 @@ profiles:
   - icon: academicons/orcid
     url: https://scholar.google.com/citations?hl=en&user=hfUlQjMAAAAJ
 
-interests:
+Research interests:
   - AI in E-commerce
   - Societal and Business Impacts of Digital Platforms
 
