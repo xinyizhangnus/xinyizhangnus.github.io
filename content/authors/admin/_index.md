@@ -21,7 +21,7 @@ highlight_name: true
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:alex.johnson@meta.com'
+    url: 'xinyizhang@u.nus.edu'
     label: E-mail Me
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/xinyi-zhang-8324b4176/
@@ -37,16 +37,12 @@ interests:
 education:
   - area: PhD Information Systems and Analytics
     institution: National University of Singapore (NUS)
-    icon: ""
     
   - area: MS Business Analytics
     institution: The University of Hong Kong (HKU)
-    icon: ""
 
   - area: BS Financial Management
     institution: South China University of Technology (SCUT)
-    icon: ""
-
 
 ---
 
