@@ -44,8 +44,6 @@ education:
   - area: BS Financial Management
     institution: South China University of Technology (SCUT)
     
-News:
-- *The Effect of Gender-Aware Curation Algorithms on User Engagement in User-Generated Content Platforms* accepted for presentation at the Workshop on Information Systems and Economics (WISE), Nashville, 2025.
 ---
 
 I am a Ph.D. candidate in Information Systems and Analytics at the National University of Singapore (NUS). My supervisors are Professor [Goh Khim-Yong](https://www.comp.nus.edu.sg/disa/people/gohky/) and Associate Professor [Chenshuo Sun](https://scholar.google.com/citations?user=2Au0MzIAAAAJ).
