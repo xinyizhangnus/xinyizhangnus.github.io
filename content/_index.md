@@ -1,6 +1,6 @@
 ---
-# Leave the homepage title empty to use the site title
-title: ''
+# Homepage title (also used for the HTML <title>)
+title: "Xinyi Zhang | Personal Website | NUS"
 date: 2022-10-24
 type: landing
 
@@ -19,16 +19,13 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
-        education: ''
-        interests: ''
-        news: ''
+        about: 'About'
+        education: 'Education'
+        interests: 'Research Interests'
+        news: 'News'
     design:
-      # Apply a gradient background
-      # css_class: hbx-bg-gradient
       # Avatar customization
       avatar:
-        size: xl # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
+        size: xl # Options: small (150px), medium (200px), large (320px), xl (400px), xxl (500px)
         shape: rounded # Options: circle (default), square, rounded
- 
 ---
