@@ -52,3 +52,8 @@ My research interests involve (1) AI in e-commerce, and (2) societal and busines
 
 I am on the **2025–2026 job market**. Please feel free to contact me for research collaborations or job opportunities.
 
+## News
+
+- *The Effect of Gender-Aware Curation Algorithms on User Engagement in User-Generated Content Platforms* accepted for presentation at the Workshop on Information Systems and Economics (WISE), Nashville, 2025.
+
+
