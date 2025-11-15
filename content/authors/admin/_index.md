@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alex Johnson
+title: Xinyi Zhang
 
 # Name pronunciation (optional)
 name_pronunciation: ''
