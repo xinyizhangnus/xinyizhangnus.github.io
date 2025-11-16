@@ -56,7 +56,7 @@ I am on the **2025–2026 job market**. Please feel free to contact me for resea
 
 
 **News**:
-  - **"I will present *The Effect of Gender-Aware Curation Algorithms on User Engagement in User-Generated Content Platforms* at the Workshop on Information Systems and Economics (WISE), Nashville, 2025."**
+  - **I will present "*The Effect of Gender-Aware Curation Algorithms on User Engagement in User-Generated Content Platforms*" at the Workshop on Information Systems and Economics (WISE), Nashville, 2025.**
 
 
 
