@@ -44,6 +44,9 @@ education:
   - area: BS Financial Management
     institution: South China University of Technology (SCUT)
 
+news:
+  - "I will present *The Effect of Gender-Aware Curation Algorithms on User Engagement in User-Generated Content Platforms* at the Workshop on Information Systems and Economics (WISE), Nashville, 2025."
+
     
 ---
 
