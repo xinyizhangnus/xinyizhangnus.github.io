@@ -48,7 +48,7 @@ education:
     
 ---
 
-I am a Ph.D. candidate in Information Systems and Analytics at the National University of Singapore (NUS). My supervisors are Professor [Khim-Yong Goh](https://www.comp.nus.edu.sg/disa/people/gohky/) and Associate Professor [Chenshuo Sun](https://scholar.google.com/citations?user=2Au0MzIAAAAJ).
+Hi! I am Xinyi. I am a Ph.D. candidate in Information Systems and Analytics at the National University of Singapore (NUS). My supervisors are Professor [Khim-Yong Goh](https://www.comp.nus.edu.sg/disa/people/gohky/) and Associate Professor [Chenshuo Sun](https://scholar.google.com/citations?user=2Au0MzIAAAAJ).
 
 My research interests involve (1) AI in e-commerce, and (2) societal and business impacts of digital platforms. I employ econometrics, randomized field experiments, and natural language processing. I enjoy exploring new technologies and approaching research questions from novel perspectives.
 
